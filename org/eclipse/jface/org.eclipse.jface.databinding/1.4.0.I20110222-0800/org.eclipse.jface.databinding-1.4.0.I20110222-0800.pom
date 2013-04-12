@@ -8,7 +8,7 @@
 	<dependencies>
 		<dependency>
 		    <groupId>org.eclipse.core.databinding</groupId>
-		    <artifactId>org.eclipse.core.databinding</artifactId>
+		    <artifactId>org.eclipse.core.databinding.observable</artifactId>
 		    <version>1.4.0.I20110222-0800</version>
 		</dependency>
 	</dependencies>
