@@ -3,13 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.core.databinding</groupId>
-  <artifactId>org.eclipse.core.databinding.property</artifactId>
+  <artifactId>org.eclipse.core.databinding</artifactId>
   <version>1.4.0.I20110222-0800</version>
-	<dependencies>
-		<dependency>
-		    <groupId>org.eclipse.core.databinding</groupId>
-		    <artifactId>org.eclipse.core.databinding</artifactId>
-		    <version>1.4.0.I20110222-0800</version>
-		</dependency>
-	</dependencies>
 </project>
